@@ -6,7 +6,7 @@
 </p> 
 <h3 align="center">A passionate frontend developer from Delhi(India)</h3>
 
-- 🔭 I’m currently working on [Ghost ai](Github.com/skycodehub/ghost)
+- 🔭 I’m currently working on [Ghost ai](https://github.com/skycodehub/Ghost)
 
 - 🌱 I’m currently learning **Html css js py and c++**
 
