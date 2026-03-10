@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 # [ℙ𝕣𝕠𝕛𝕖𝕔𝕥 𝔾𝕙𝕠𝕤𝕥]
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?color=228B22&width=420&lines=Hi+👋,+I'm+unknown+boy;working+on+Project+Ghost %E2%9D%A4%EF%B8%8F">
-</p> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=450&lines=Hi+I'm+SKYCODEHUB;Currently+Working+On+Project+Ghost" alt="Typing SVG" />
+</p>
 <h3 align="center">A passionate frontend developer from Delhi(India)</h3>
 
 - 🔭 I’m currently working on [Ghost ai](https://github.com/skycodehub/Ghost)
